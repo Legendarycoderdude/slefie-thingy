@@ -1,0 +1,21 @@
+#START_BUTTON
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    height: 300px;
+    border-radius: 100px;
+}
+#voiceouputtextarea
+{
+    width: 300px;
+}
+
+
